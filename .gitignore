@@ -1,0 +1,38 @@
+# WordPress core
+/wp-admin/
+/wp-includes/
+/wp-links-opml.php
+/wp-load.php
+/wp-login.php
+/wp-mail.php
+/wp-settings.php
+/wp-signup.php
+/wp-trackback.php
+/xmlrpc.php
+
+# Content
+/wp-content/uploads/
+/wp-content/cache/
+/wp-content/upgrade/
+/wp-content/languages/
+/wp-content/plugins/*
+!/wp-content/plugins/your-custom-plugin/ # Exception for your custom plugin
+/wp-content/themes/*
+!/wp-content/themes/your-custom-theme/ # Exception for your custom theme
+
+# Configuration and Database
+wp-config.php
+*.sql # Database backups
+
+# Other common files to ignore
+.DS_Store
+.env
+.idea/
+.sass-cache/
+/node_modules/
+/vendor/
+/gulpfile.js
+/package.json
+/package-lock.json
+/composer.json
+/composer.lock

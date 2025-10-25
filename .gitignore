@@ -36,3 +36,16 @@ wp-config.php
 /package-lock.json
 /composer.json
 /composer.lock
+
+.htaccess
+.htaccess.lock-1637353a82ccf-213f7a2b-eb895
+.htaccess.lock-329a85f5d31ad-213f7a2b-eb895
+.htaccess.phpupgrader.69128178
+.htaccess.phpupgrader.c246cc64
+.htaccess.phpupgrader.d62ba301
+.htaccess.phpupgrader.initial
+Basikwall_Temp/
+bw_catalog/
+error_log
+unofficial/
+website_43cac7c4/

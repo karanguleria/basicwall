@@ -16,8 +16,12 @@
 /wp-content/upgrade/
 /wp-content/languages/
 /wp-content/plugins/*
-/wp-content/themes/*
-!/wp-content/themes/basikwall/ # Exception for your custom theme
+/wp-content/themes/index.php
+/wp-content/themes/twentytwentyfive/
+/wp-content/themes/twentytwentyfour/
+/wp-content/themes/twentytwentyone/
+/wp-content/themes/twentytwentythree/
+/wp-content/themes/twentytwentytwo/
 
 # Configuration and Database
 wp-config.php
